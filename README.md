@@ -1,6 +1,12 @@
 # Hi, I'm Aryaman Deshmukh 👋
 
-I'm an aspiring **Embedded Systems Engineer** with experience in microcontroller programming, IoT integration, and communication protocols. I'm passionate about creating innovative, cost-effective technology solutions.
+I'm a passionate **Embedded Systems Engineer** with hands-on experience in designing and developing cutting-edge solutions using microcontrollers, IoT, and communication protocols. My expertise lies in creating **innovative, cost-effective, and scalable technology solutions** that bridge the gap between hardware and software.
+
+With a strong foundation in **Embedded C, C++, and Python**, I specialize in programming microcontrollers like **STM32, ESP32, and ARM**, and integrating IoT platforms for real-time data monitoring and control. I thrive on solving complex problems and turning ideas into functional, efficient systems.
+
+My goal is to contribute to the development of **smart, connected devices** that improve lives and drive technological advancements. Whether it's building health monitoring systems, automating processes, or optimizing communication protocols, I'm always eager to take on new challenges and push the boundaries of what's possible.
+
+Let's connect and build the future of embedded systems together! 🚀
 
 ## 🛠️ Skills
 
