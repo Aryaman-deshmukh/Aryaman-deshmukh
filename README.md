@@ -5,38 +5,38 @@ I'm an aspiring **Embedded Systems Engineer** with experience in microcontroller
 ## 🛠️ Skills
 
 ### Programming Languages
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=30)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=30)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=30)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30)
 
 ### Embedded Systems
-![PIC18F](https://img.shields.io/badge/PIC18F-007ACC?style=for-the-badge&logo=microchip&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![PIC18F](https://img.shields.io/badge/PIC18F-007ACC?style=for-the-badge&logo=microchip&logoColor=white&logoWidth=30)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoWidth=30)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&logoWidth=30)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white&logoWidth=30)
 
 ### Tools & IDEs
-![Keil µVision](https://img.shields.io/badge/Keil_µVision-007ACC?style=for-the-badge&logo=keil&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MPLAB](https://img.shields.io/badge/MPLAB-007ACC?style=for-the-badge&logo=microchip&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-007ACC?style=for-the-badge&logo=proteus&logoColor=white)
-![STM32Cube IDE](https://img.shields.io/badge/STM32Cube_IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Keil µVision](https://img.shields.io/badge/Keil_µVision-007ACC?style=for-the-badge&logo=keil&logoColor=white&logoWidth=30)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&logoWidth=30)
+![MPLAB](https://img.shields.io/badge/MPLAB-007ACC?style=for-the-badge&logo=microchip&logoColor=white&logoWidth=30)
+![Proteus](https://img.shields.io/badge/Proteus-007ACC?style=for-the-badge&logo=proteus&logoColor=white&logoWidth=30)
+![STM32Cube IDE](https://img.shields.io/badge/STM32Cube_IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoWidth=30)
 
 ### IoT Integration
-![Blynk](https://img.shields.io/badge/Blynk-00C7FD?style=for-the-badge&logo=blynk&logoColor=white)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-E7352C?style=for-the-badge&logo=nodemcu&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-00C7FD?style=for-the-badge&logo=blynk&logoColor=white&logoWidth=30)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-E7352C?style=for-the-badge&logo=nodemcu&logoColor=white&logoWidth=30)
 
 ### Communication Protocols
-![UART](https://img.shields.io/badge/UART-007ACC?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-007ACC?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-007ACC?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN-007ACC?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-007ACC?style=for-the-badge&logoWidth=30)
+![SPI](https://img.shields.io/badge/SPI-007ACC?style=for-the-badge&logoWidth=30)
+![I2C](https://img.shields.io/badge/I2C-007ACC?style=for-the-badge&logoWidth=30)
+![CAN](https://img.shields.io/badge/CAN-007ACC?style=for-the-badge&logoWidth=30)
 
 ### Other Skills
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=30)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30)
 
 ---
 
@@ -62,9 +62,9 @@ I'm an aspiring **Embedded Systems Engineer** with experience in microcontroller
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman7deshmukh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryaman7deshmukh@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919881433991)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/aryaman7deshmukh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:aryaman7deshmukh@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30)](https://www.instagram.com/aryaman_deshmukh/?hl=en)
 
 ---
 
