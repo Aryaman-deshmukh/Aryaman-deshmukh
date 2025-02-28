@@ -62,11 +62,6 @@ Let's connect and build the future of embedded systems together! 🚀
 - Achieved 70-80% accuracy compared to professional medical equipment.
 - [View Project](https://github.com/Aryaman-deshmukh/health-monitoring-system)
 
-### [Project Name 2]
-- Brief description of the project.
-- Technologies used.
-- [View Project](https://github.com/Aryaman-deshmukh/project2)
-
 ---
 
 ## 📚 Education
@@ -92,6 +87,3 @@ Let's connect and build the future of embedded systems together! 🚀
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Aryaman-deshmukh&theme=radical)
 
 ---
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aryaman-deshmukh&theme=radical&row=1&column=7)
