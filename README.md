@@ -48,11 +48,6 @@ I'm an aspiring **Embedded Systems Engineer** with experience in microcontroller
 - Achieved 70-80% accuracy compared to professional medical equipment.
 - [View Project](https://github.com/Aryaman-deshmukh/health-monitoring-system)
 
-### [Project Name 2]
-- Brief description of the project.
-- Technologies used.
-- [View Project](https://github.com/Aryaman-deshmukh/project2)
-
 ---
 
 ## 📚 Education
