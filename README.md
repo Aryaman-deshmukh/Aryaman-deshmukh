@@ -60,7 +60,7 @@ Let's connect and build the future of embedded systems together! 🚀
 - Developed a health monitoring system to measure pulses, ECG, and SpO2 levels using ESP32 and I2C communication.
 - Integrated cloud functionality for remote monitoring via a mobile app.
 - Achieved 70-80% accuracy compared to professional medical equipment.
-- [View Project](https://github.com/Aryaman-deshmukh/health-monitoring-system)
+- [View Project]([https://github.com/Aryaman-deshmukh/health-monitoring-system](https://github.com/Aryaman-deshmukh/IOT-Based-helth-monitoring-system))
 
 ---
 
