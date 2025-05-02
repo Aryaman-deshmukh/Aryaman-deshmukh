@@ -1,4 +1,6 @@
-# Hi, I'm Aryaman Deshmukh 👋
+# Aryaman Deshmukh's Embedded Systems Projects
+
+Hi, I'm Aryaman Deshmukh 👋
 
 > "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."  
 > – **Steve Jobs**
@@ -57,10 +59,17 @@ Let's connect and build the future of embedded systems together! 🚀
 ## 🚀 Projects
 
 ### IoT-Based Health Monitoring System Using ESP32
-- Developed a health monitoring system to measure pulses, ECG, and SpO2 levels using ESP32 and I2C communication.
-- Integrated cloud functionality for remote monitoring via a mobile app.
-- Achieved 70-80% accuracy compared to professional medical equipment.
-- [View Project](GitHub Repository](https://github.com/Aryaman-deshmukh/IOT-Based-helth-monitoring-system))
+- Developed a health monitoring system to measure pulses, ECG, and SpO2 levels using ESP32 and I2C communication.  
+- Integrated cloud functionality for remote monitoring via a mobile app.  
+- Achieved 70–80% accuracy compared to professional medical equipment.  
+- [GitHub Repo](https://github.com/Aryaman-deshmukh/IOT-Based-helth-monitoring-system)
+
+### STM32 Smart Fan Controller (Auto/Manual Mode)
+- Built a smart fan system using STM32 and LM35 sensor.  
+- Controlled fan speed using PWM based on real-time temperature.  
+- Added push buttons to switch between Auto and Manual modes using EXTI interrupts.  
+- Displayed temperature, speed, and mode on a 16x2 LCD.  
+- Used UART to communicate with sensors and transfer data.
 
 ---
 
@@ -71,14 +80,14 @@ Let's connect and build the future of embedded systems together! 🚀
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman7deshmukh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryaman7deshmukh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman7deshmukh)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryaman7deshmukh@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aryaman_deshmukh/?hl=en)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryaman-deshmukh&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryaman-deshmukh&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaman-deshmukh&layout=compact&theme=radical)
 
 ---
