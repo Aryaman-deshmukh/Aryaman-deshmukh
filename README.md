@@ -14,7 +14,7 @@ Let's connect and build the future of embedded systems together! 🚀
 ---
 
 ## 📄 Resume
-[![Download Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Aryaman-deshmukh/Aryaman-deshmukh/raw/main/ARYAMAN_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://flowcv.com/resume/skq355riq4ws)
 
 ---
 
