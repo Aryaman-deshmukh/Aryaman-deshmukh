@@ -69,7 +69,8 @@ Let's connect and build the future of embedded systems together! 🚀
 - Controlled fan speed using PWM based on real-time temperature.  
 - Added push buttons to switch between Auto and Manual modes using EXTI interrupts.  
 - Displayed temperature, speed, and mode on a 16x2 LCD.  
-- Used UART to communicate with sensors and transfer data.
+- Used UART to communicate with sensors and transfer data.  
+- [GitHub Repo](https://github.com/Aryaman-deshmukh/STM32-Smart-Fan-Controller-Auto-Manual-Mode-)
 
 ---
 
